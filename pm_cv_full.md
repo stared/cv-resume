@@ -7,19 +7,21 @@ In reverse chronological order.
 
 # Schools and courses
 
-* "Big Dive"
-	1-26 Oct 2012, Turin (Italy)
+	* "Big Dive"
+		1-26 Oct 2012, Turin (Italy)
 
 
 # Seminars 
 
-* "Jakie stany n-fotonowe można uzyskać deterministycznie przy pomocy optyki liniowej?"
-	(eng.: "Which n-photon states can be deterministically achieved using linear optics?")
-	CFT PAN, 28 Nov 2012, Warsaw (Poland)
+	* "Jakie stany n-fotonowe można uzyskać deterministycznie przy pomocy optyki liniowej?"
+		(eng.: "Which n-photon states can be deterministically achieved using linear optics?")
+		CFT PAN, 28 Nov 2012, Warsaw (Poland)
 
-* "Qubism: self similar visualization of spin chains"
-	Jacob Biamonte group (ISI Foundation), 26 Oct 2012,  Turin (Italy)
+	* "Qubism: self similar visualization of spin chains"
+		Jacob Biamonte group (ISI Foundation), 26 Oct 2012,  Turin (Italy)
 
+
+# Projects and activity
 
 # Essays 
 
