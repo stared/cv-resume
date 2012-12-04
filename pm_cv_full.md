@@ -3,6 +3,10 @@ I will be adding past things as well.
 In reverse chronological order.
 
 # Conferences
+	* Quantum Information meets Statistical Mechanics
+		http://www.uibk.ac.at/th-physik/qism2012/
+		22-25 Sept 2012, Innsbruck, Austria
+		poster: 
 
 
 # Schools and courses
