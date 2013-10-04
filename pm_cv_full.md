@@ -4,8 +4,8 @@ In reverse chronological order.
 
 # Conferences
 	* Quantum Information meets Statistical Mechanics
-		http://www.uibk.ac.at/th-physik/qism2012/
 		22-25 Sept 2012, Innsbruck, Austria
+		http://www.uibk.ac.at/th-physik/qism2012/
 		poster: 
 
 
@@ -15,7 +15,20 @@ In reverse chronological order.
 		1-26 Oct 2012, Turin (Italy)
 
 
-# Seminars 
+
+# Seminars and talks
+
+	* Big Data and Startups
+		Toolbox, 21 Jun 2013, Torino (Italy)
+
+	* "Collective decision making: the Mafia game & perceptual tasks"
+		ISI Foundation, 6 Jun 2013, Torino (Italy)
+
+	* Qubism
+		FUW, 10 Jan 2013, Warsaw (Poland)
+
+	* "Nauka 2.0 i Workflowy" (eng. "Science 2.0 and Workflows")
+		SKFiz UW, 7 Jan 2013, Warsaw (Poland)
 
 	* "Jakie stany n-fotonowe można uzyskać deterministycznie przy pomocy optyki liniowej?"
 		(eng.: "Which n-photon states can be deterministically achieved using linear optics?")
@@ -26,6 +39,21 @@ In reverse chronological order.
 
 
 # Projects and activity
+
+	* Startup Weekend London EDU
+		25-27 Jan 2013, London
+		http://londonedu.startupweekend.org/
+		participant, project: "achieve"
+
+	* 2nd Offtopicarium
+		4-6 Jan 2013, Słomczyn near Warsaw (Poland)
+		main organizer
+
+# Tought courses and teaching experience
+
+# Research stays
+	* Turin, Italy
+	* Madrid, Spain
 
 # Essays 
 
