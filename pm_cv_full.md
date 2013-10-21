@@ -18,6 +18,15 @@ In reverse chronological order.
 
 # Seminars and talks
 
+	* Qubism: self-similar visualization of many-body wavefunctions,
+		[Caltech](http://iqim.caltech.edu/seminars/archive_iqim_2013.html),
+		4 Oct 2013, Pasadena, CA (USA)
+
+
+	* [Graph Visualization in D3.js](http://www.meetup.com/Bay-Area-d3-User-Group/events/133292932/)
+		30 Sept 3013, San Francisco, CA (USA)
+		* [slides](https://speakerdeck.com/pmigdal/introduction-to-graph-visualization-in-d3-dot-js), [video](http://www.youtube.com/watch?v=46CQlRYDbH0)
+
 	* Big Data and Startups
 		Toolbox, 21 Jun 2013, Torino (Italy)
 
@@ -50,6 +59,8 @@ In reverse chronological order.
 		main organizer
 
 # Tought courses and teaching experience
+
+	* TO DO
 
 # Research stays
 	* Turin, Italy
