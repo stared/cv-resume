@@ -1,0 +1,8 @@
+Cover Letters/
+*.log
+*.dvi
+*.ps
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
