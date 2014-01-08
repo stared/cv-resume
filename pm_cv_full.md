@@ -1,13 +1,14 @@
+WARNING: Under construction. As of now, for my personal use only. :)
+
 Logbook, started 25 Nov 2012,
 I will be adding past things as well.
 In reverse chronological order.
 
 # Conferences
+
 	* Quantum Information meets Statistical Mechanics
 		22-25 Sept 2012, Innsbruck, Austria
 		http://www.uibk.ac.at/th-physik/qism2012/
-		poster: 
-
 
 # Schools and courses
 
@@ -78,7 +79,7 @@ In reverse chronological order.
 		4-6 Jan 2013, Słomczyn near Warsaw (Poland)
 		main organizer
 
-# Tought courses and teaching experience
+# Taught courses and teaching experience
 
 	* TO DO
 
