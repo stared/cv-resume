@@ -18,6 +18,22 @@ In reverse chronological order.
 
 # Seminars and talks
 
+	* One thing to rule it all: on entropy
+		4th Offtopicarum
+		5 Jan 2014, Słomczyn near Warsaw, Poland
+
+	* Informacja wzajemna i jej zastosowania (Mutual information and its applications)
+	*	Faculty of Physics, University of Warsaw
+		2 Jan 2014, Warsaw, Poland
+
+	* Bottom-up approach in education and science
+		[CEE Talk at 30th Anniversary of CEE](http://www.cee.org/news/30th-anniversary-celebration),
+		26 Oct 2013, Cambridge, CA (USA)
+
+	* Quantum complex networks: random walks and community-detection
+		[BarabasiLab & Center for Complex Network Research (CCNR)](http://www.barabasilab.com/) at Northeastern University,
+		25 Oct 2013, Boston, CA (USA)
+
 	* Qubism: self-similar visualization of many-body wavefunctions,
 		[Caltech](http://iqim.caltech.edu/seminars/archive_iqim_2013.html),
 		4 Oct 2013, Pasadena, CA (USA)
@@ -48,6 +64,10 @@ In reverse chronological order.
 
 
 # Projects and activity
+
+	* 4th Offtopicarium
+		organizer and speaker
+		3-6 Jan 2014, Słomczyn near Warsaw, Poland
 
 	* Startup Weekend London EDU
 		25-27 Jan 2013, London
