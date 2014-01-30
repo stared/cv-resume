@@ -12,10 +12,16 @@ In reverse chronological order.
 
 # Schools and courses
 
-	* "Big Dive"
+	* [Big Dive](http://www.bigdive.eu/)
 		1-26 Oct 2012, Turin (Italy)
+		one-month course in data anaysis, processing and visualization
 
 
+# Professional experience
+
+	* [Compass](https://www.compass.co/)
+		Jul-Sept 2013, San Francisco, CA, USA
+		data science intern
 
 # Seminars and talks
 
@@ -24,7 +30,7 @@ In reverse chronological order.
 		5 Jan 2014, Słomczyn near Warsaw, Poland
 
 	* Informacja wzajemna i jej zastosowania (Mutual information and its applications)
-	*	Faculty of Physics, University of Warsaw
+		Faculty of Physics, University of Warsaw
 		2 Jan 2014, Warsaw, Poland
 
 	* Bottom-up approach in education and science
@@ -87,7 +93,11 @@ In reverse chronological order.
 	* Turin, Italy
 	* Madrid, Spain
 
-# Essays 
+# Essays, expository atricles and blog posts
 
+	* [Two heads are better than one. How about more?](http://egtheory.wordpress.com/2014/01/30/two-heads-are-better-than-one-how-about-more)
+		30 Jan 2014, a guest post at [Theory, Evolution, and Games Group](http://egtheory.wordpress.com/)
+
+	* (also older)
 
 # Awards
