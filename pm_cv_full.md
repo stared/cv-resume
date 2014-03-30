@@ -25,7 +25,11 @@ In reverse chronological order.
 
 # Seminars and talks
 
-	* One thing to rule it all: on entropy
+	* Software for Scientists and introduction to Version Control (with Git)
+		* https://gist.github.com/stared/9130888 
+		* 21 Feb 2014, ICFO, Castelldefels, Spain 
+
+	* [One thing to rule it all: on entropy](http://offtopicarium.wikidot.com/v4:program)
 		4th Offtopicarum
 		5 Jan 2014, Słomczyn near Warsaw, Poland
 
@@ -97,6 +101,7 @@ In reverse chronological order.
 
 	* [Two heads are better than one. How about more?](http://egtheory.wordpress.com/2014/01/30/two-heads-are-better-than-one-how-about-more)
 		30 Jan 2014, a guest post at [Theory, Evolution, and Games Group](http://egtheory.wordpress.com/)
+		* [Editor's pick at mathblogging.org](http://www.mathblogging.org/post/78174).
 
 	* (also older)
 
