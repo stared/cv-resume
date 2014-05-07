@@ -91,7 +91,10 @@ In reverse chronological order.
 
 # Taught courses and teaching experience
 
-	* TO DO
+	* [Serock camp of Polish Children's Fund](http://fundusz.org/aktualnosci/384-oboz-w-serocku-juz-za)
+		* 25 Apr - 5 May 2014, Serock near Warsaw (Poland)  
+		* 3 day workshop: [Entropy - applications (pl. Entropia w zastosowaniach)]
+		* 3 day workshop: [LaTeX - a tool for writing beautiful scientific papers (pl: LaTeX - narzędzie do pisania pięknych prac naukowych)](https://hackpad.com/LaTeX-w-Serocku-2014-cQqvfrTU2tm)
 
 # Research stays
 	* Turin, Italy
