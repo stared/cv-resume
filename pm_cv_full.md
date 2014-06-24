@@ -25,6 +25,10 @@ In reverse chronological order.
 
 # Seminars and talks
 
+	* Which state are related via linear optics?
+		* Quantum Information Seminar, Faculty of Physics, University of Warsaw
+		* 5 Jun 2014, Warsaw, Poland 
+
 	* Software for Scientists and introduction to Version Control (with Git)
 		* https://gist.github.com/stared/9130888 
 		* 21 Feb 2014, ICFO, Castelldefels, Spain 
@@ -102,6 +106,9 @@ In reverse chronological order.
 
 # Essays, expository atricles and blog posts
 
+	* [Metawstęp do wizualizacji danych w D3,js](http://smarterpoland.pl/index.php/2014/06/metawstep-do-wizualizacji-danych-w-d3-js/)
+		* SmarterPoland.pl 
+		* Jun 2014
 	* [Two heads are better than one. How about more?](http://egtheory.wordpress.com/2014/01/30/two-heads-are-better-than-one-how-about-more)
 		30 Jan 2014, a guest post at [Theory, Evolution, and Games Group](http://egtheory.wordpress.com/)
 		* [Editor's pick at mathblogging.org](http://www.mathblogging.org/post/78174).
